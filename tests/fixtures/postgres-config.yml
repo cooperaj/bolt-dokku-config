@@ -1,0 +1,7 @@
+database:
+    driver: postgres
+    username: postgres
+    password: SOME_PASSWORD
+    databasename: lolipop
+    host: dokku-postgres-lolipop
+    port: 5432

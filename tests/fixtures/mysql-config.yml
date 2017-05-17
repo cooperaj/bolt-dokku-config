@@ -1,0 +1,7 @@
+database:
+    driver: mysql
+    username: mysql
+    password: SOME_PASSWORD
+    databasename: lolipop
+    host: dokku-mysql-lolipop
+    port: 3306
